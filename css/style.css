@@ -43,7 +43,8 @@ main ul {
 
 footer { 
 	min-width: 855px;
-	padding: 7px;
+	padding: 10px;
+	font-family: Arial, serif;
 }
 h4 {
 	float: right;
