@@ -14,7 +14,6 @@ header nav {
 	width: 285px;
 }
 
-
 main {
 	font-family: arial, serif;
 	background: white;
@@ -41,12 +40,16 @@ main ul {
 	margin-left: 20px;
 }
 
+
 footer { 
 	min-width: 855px;
-
+	padding: 7px;
+}
+h4 {
+	float: right;
 }
 h5 {
-	float: right;
+	float: left;
 }
 p {
 	float: right;
